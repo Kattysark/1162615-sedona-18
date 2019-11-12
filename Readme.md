@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Трофимова](https://up.htmlacademy.ru/adaptive/18/user/1162615).
-* Наставник: `Неизвестно`.
+* Наставник: Юлия Антонова.
 
 ---
 
