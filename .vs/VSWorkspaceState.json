@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\source",
+    "\\source\\less",
     "\\source\\less\\blocks",
     "\\source\\less\\blocks\\commons"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\source\\less\\blocks\\commons\\social-btn.less",
   "PreviewInSolutionExplorer": false
 }
